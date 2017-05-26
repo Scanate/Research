@@ -1,5 +1,4 @@
-# Research
-Non-technical Blockchain Research Topics
+# Non-technical Blockchain Research Topics
 
 Started by Vlad Zamfir's Tweet: https://twitter.com/VladZamfir/status/867991093136179201
 
