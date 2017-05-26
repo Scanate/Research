@@ -22,6 +22,8 @@ What is the cost of governance? What are the tradeoffs between high and low cost
 
 How can governance process be secured from manipulation? How can a governance process guarantee the representation of clients + 3rd parties?
 
+Can you have good governance without a polity (citizens) to receive signals from? i.e, Do we need reliable identification and reputation systems for governance?
+
 ### Social
 What is the role of the blockchain in society? Reducing transaction costs? Providing trusted services? Circumventing systems of control?
 
