@@ -1,5 +1,5 @@
 # Non-technical Blockchain Research Topics
-
+#### Feel free to submit a pull request to add a new research topic
 Started by Vlad Zamfir's Tweet: https://twitter.com/VladZamfir/status/867991093136179201
 
 ### Ethics
